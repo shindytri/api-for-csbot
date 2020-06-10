@@ -1,0 +1,73 @@
+{
+  "chats": [
+    {
+      "columns": [
+        {
+          "image_url": "https://image.freepik.com/free-icon/messages_318-10574.jpg",
+          "title": "Paket SMS 3 Hari",
+          "text": "Bisa SMS kemana aja sepuasnya selama 3 hari. Cuma Rp 2000 aja!",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket SMS 3 Hari",
+                "active": "3 Hari",
+                "price": "Rp 2000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    },
+    {
+      "columns": [
+        {
+          "image_url": "https://image.freepik.com/free-icon/messages_318-10574.jpg",
+          "title": "Paket SMS Seminggu",
+          "text": "Bisa SMS kemana aja sepuasnya selama seminggu. Cuma Rp 5000 aja!",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket SMS Seminggu",
+                "active": "7 Hari",
+                "price": "Rp 5000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    },
+    {
+      "columns": [
+        {
+          "image_url": "https://image.freepik.com/free-icon/messages_318-10574.jpg",
+          "title": "Paket SMS Sebulan",
+          "text": "Bisa SMS kemana aja sepuasnya selama sebulan. Cuma Rp 15000 aja!",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket SMS Sebulan",
+                "active": "30 Hari",
+                "price": "Rp 15000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    }
+  ]
+}

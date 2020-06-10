@@ -1,0 +1,73 @@
+{
+  "chats": [
+    {
+      "columns": [
+        {
+          "image_url": "https://storage.googleapis.com/vutura/assets/images/c821b839-1d1a-4098-80cb-981e2f9be6cb.jpg",
+          "title": "Paket Telpon 3 Hari",
+          "text": "Bisa nelpon kemana aja sepuasnya selama 3 hari. Cuma Rp 2000 aja!",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Telpon 3 Hari",
+                "active": "3 Hari",
+                "price": "Rp 2000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    },
+    {
+      "columns": [
+        {
+          "image_url": "https://storage.googleapis.com/vutura/assets/images/c821b839-1d1a-4098-80cb-981e2f9be6cb.jpg",
+          "title": "Paket Telpon Seminggu",
+          "text": "Bisa nelpon kemana aja sepuasnya selama seminggu. Cuma Rp 5000 aja!",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Telpon Seminggu",
+                "active": "7 Hari",
+                "price": "Rp 5000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    },
+    {
+      "columns": [
+        {
+          "image_url": "https://storage.googleapis.com/vutura/assets/images/c821b839-1d1a-4098-80cb-981e2f9be6cb.jpg",
+          "title": "Paket Telpon Sebulan",
+          "text": "Bisa nelpon kemana aja sepuasnya selama sebulan. Cuma Rp 20000 aja!",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Telpon Sebulan",
+                "active": "30 Hari",
+                "price": "Rp 20000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    }
+  ]
+}

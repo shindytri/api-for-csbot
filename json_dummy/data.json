@@ -1,0 +1,85 @@
+{
+  "chats": [
+    {
+      "variable": {
+        "id": "telp1",
+        "title": "Paket Telpon 3 Hari",
+        "active": "3 Hari",
+        "price": "Rp 2000"
+      },
+      "type": "variable"
+    },
+    {
+      "variable": {
+        "id": "telp2",
+        "title": "Paket Telpon Seminggu",
+        "active": "7 Hari",
+        "price": "Rp 5000"
+      },
+      "type": "variable"
+    },
+    {
+      "variable": {
+        "id": "telp3",
+        "title": "Paket Telpon Sebulan",
+        "active": "30 Hari",
+        "price": "Rp 20000"
+      },
+      "type": "variable"
+    },
+    {
+      "variable": {
+        "id": "sms1",
+        "title": "Paket SMS 3 Hari",
+        "active": "3 Hari",
+        "price": "Rp 2000"
+      },
+      "type": "variable"
+    },
+    {
+      "variable": {
+        "id": "sms2",
+        "title": "Paket SMS Seminggu",
+        "active": "7 Hari",
+        "price": "Rp 5000"
+      },
+      "type": "variable"
+    },
+    {
+      "variable": {
+        "id": "sms3",
+        "title": "Paket SMS Sebulan",
+        "active": "30 Hari",
+        "price": "Rp 15000"
+      },
+      "type": "variable"
+    },
+    {
+      "variable": {
+        "id": "kuota1",
+        "title": "Paket Internet 500MB",
+        "active": "7 Hari",
+        "price": "Rp 15000"
+      },
+      "type": "variable"
+    },
+    {
+      "variable": {
+        "id": "kuota2",
+        "title": "Paket Internet 5GB",
+        "active": "30 Hari",
+        "price": "Rp 60000"
+      },
+      "type": "variable"
+    },
+    {
+      "variable": {
+        "id": "kuota3",
+        "title": "Paket Internet 50GB",
+        "active": "60 Hari",
+        "price": "Rp 120000"
+      },
+      "type": "variable"
+    }
+  ]
+}

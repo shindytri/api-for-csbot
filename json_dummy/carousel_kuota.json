@@ -1,0 +1,73 @@
+{
+  "chats": [
+    {
+      "columns": [
+        {
+          "image_url": "https://tastythailand.com/wp-content/uploads/2014/03/internet.jpg",
+          "title": "Paket Internet 500MB",
+          "text": "Bisa internetan sepuasnya dengan kuota 500MB, masa aktif selama 7 hari.",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Internet 500MB",
+                "active": "7 Hari",
+                "price": "Rp 15000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    },
+    {
+      "columns": [
+        {
+          "image_url": "https://tastythailand.com/wp-content/uploads/2014/03/internet.jpg",
+          "title": "Paket Internet 5GB",
+          "text": "Bisa internetan sepuasnya dengan kuota 5GB, masa aktif selama 30 hari.",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Internet 5GB",
+                "active": "30 Hari",
+                "price": "Rp 60000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    },
+    {
+      "columns": [
+        {
+          "image_url": "https://tastythailand.com/wp-content/uploads/2014/03/internet.jpg",
+          "title": "Paket Internet 50GB",
+          "text": "Bisa internetan sepuasnya dengan kuota 50GB, masa aktif selama 60 hari.",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Internet 50GB",
+                "active": "60 Hari",
+                "price": "Rp 120000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    }
+  ]
+}

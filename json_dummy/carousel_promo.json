@@ -1,0 +1,73 @@
+{
+  "chats": [
+    {
+      "columns": [
+        {
+          "image_url": "https://www.expertaidrepair.com/wp-content/uploads/2019/04/240_F_115982009_Kgy5bUrHo1zM6PYlC4rLtCJCULFlOf8Y.jpg",
+          "title": "Paket Bundle 1",
+          "text": "Bisa Telpon dan SMS sepuasnya plus Internetan dengan kuota 500MB. Berlaku selama 7 Hari.",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Bundle 1",
+                "active": "7 Hari",
+                "price": "Rp 20000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    },
+    {
+      "columns": [
+        {
+          "image_url": "https://www.expertaidrepair.com/wp-content/uploads/2019/04/240_F_115982009_Kgy5bUrHo1zM6PYlC4rLtCJCULFlOf8Y.jpg",
+          "title": "Paket Bundle 2",
+          "text": "Bisa Telpon dan SMS sepuasnya plus Internetan dengan kuota 5GB. Berlaku selama 30 Hari.",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Bundle 2",
+                "active": "30 Hari",
+                "price": "Rp 90000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    },
+    {
+      "columns": [
+        {
+          "image_url": "https://www.expertaidrepair.com/wp-content/uploads/2019/04/240_F_115982009_Kgy5bUrHo1zM6PYlC4rLtCJCULFlOf8Y.jpg",
+          "title": "Paket Bundle 3",
+          "text": "Bisa Telpon dan SMS sepuasnya plus Internetan dengan kuota 50GB. Berlaku selama 60 Hari.",
+          "buttons": [
+            {
+              "label": "Pesan",
+              "type": "path",
+              "path": "5ed9fdac20f8374bf65abcaa",
+              "variable": {
+                "title": "Paket Bundle 3",
+                "active": "60 Hari",
+                "price": "Rp 200000"
+              }
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    }
+  ]
+}
